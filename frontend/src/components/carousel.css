@@ -1,0 +1,36 @@
+.carousel-cont{
+    position: relative;
+    width: 80%;
+    display: block;
+    height: 550px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    transition: transform 3s;
+}
+
+.carousel-img{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+.carousel-right{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top : 260px;
+    right : 20px;
+    cursor: pointer;
+    transform: "translate(0, -50%)",
+}
+
+.carousel-left{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top : 260px;
+    left: 20px;
+    cursor: pointer;
+    transform: "translate(0, -50%)",
+}

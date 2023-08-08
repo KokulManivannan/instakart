@@ -1,0 +1,17 @@
+.list_style {
+  list-style-type: none;
+  color: grey;
+  text-decoration: none;
+}
+
+.text_bold {
+  font-weight: bold;
+  text-decoration: none;
+  color: grey;
+  list-style-type: none;
+}
+
+.line {
+  border-bottom: solid grey 1px;
+  margin-bottom: 20px;
+}
