@@ -1,4 +1,3 @@
-# instakart
+# Full Stack E-Commerce Application
 
 
-#Full Stack E-commerce Application
